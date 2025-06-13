@@ -1,0 +1,14 @@
+together
+pandas
+matplotlib
+seaborn
+plotly
+openpyxl
+python-docx
+PyPDF2
+pillow
+numpy
+scikit-learn
+wordcloud
+jupyter
+streamlit
