@@ -158,15 +158,6 @@ Multi-layered visualization approach:
    - View results and interactive visualizations
    - Ask follow-up questions in real-time
 
-## 🔧 Configuration
-
-### API Key Setup
-The project is pre-configured with the Together.ai API key:
-```python
-TOGETHER_API_KEY = "cdd020e6a49733d3836952dbd379ccc3476264c76c0a510fcd9a6b490b588588"
-MODEL_NAME = "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
-```
-
 ### Model Configuration
 The system uses the **meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8** model with:
 - **Max Tokens**: 2048 for comprehensive responses
