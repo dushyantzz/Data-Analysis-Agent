@@ -17,7 +17,7 @@ import os
 from io import StringIO, BytesIO
 from together import Together
 
-TOGETHER_API_KEY = "cdd020e6a49733d3836952dbd379ccc3476264c76c0a510fcd9a6b490b588588"
+TOGETHER_API_KEY = ""
 MODEL_NAME = "meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8"
 
 class DataAnalystAgent:
